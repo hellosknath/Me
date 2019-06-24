@@ -13,10 +13,13 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="styles/main.css" rel="stylesheet">
     <script type='text/javascript'>//<![CDATA[ 
-$(function(){
-$('img').bind('contextmenu', function(e){
-return false;
-}); 
+$(document).on("contextmenu",function(e){
+
+     if( e.button == 2 ) {
+         e.preventDefault();
+          callYourownFucntionOrCodeHere();
+     }
+return true;
 });//]]>  
 </script>
     
