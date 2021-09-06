@@ -1,5 +1,6 @@
 {
   "latestVersion": "1.0.3",
+  "base_url": "http://103.111.224.87:2999/api/",
   "latestVersionCode": 3,
   "url": "",
   "releaseNotes": [
