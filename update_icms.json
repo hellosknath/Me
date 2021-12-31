@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.3",
   "base_url": "http://103.111.224.87:2999/api/",
-  "srinath": "http://192.168.1.7:2999/api/ - http://103.111.224.87:2999/api/ -- https://icmsapps.manaratint.com/api/",
+  "srinath": "http://192.168.1.7:2999/api/ - - http://103.111.224.87:2999/api/ -- https://icmsapps.manaratint.com/api/",
   "video_url": "https://github.com/hellosknath/Me/raw/master/typing.mp4",
   "video_url_two": "https://github.com/hellosknath/Me/raw/master/computer-code-screen.mp4",
   "video_url_three": "https://github.com/hellosknath/Me/raw/master/formula.mp4",
