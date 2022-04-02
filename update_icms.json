@@ -4,12 +4,12 @@
   "video_url": "https://github.com/hellosknath/Me/raw/master/typing.mp4",
   "video_url_two": "https://github.com/hellosknath/Me/raw/master/computer-code-screen.mp4",
   "video_url_three": "https://github.com/hellosknath/Me/raw/master/formula.mp4",
-  "l_version_code":14,
+  "l_version_code":15,
   "user_code":"0",
-  "url": "https://1drv.ms/u/s!AnNT8AhPtGK4hLEFlYmPKHcOqobeWg",
+  "url": "https://drive.google.com/file/d/1Xmw8AopAw2wVjrkVXZtKgvmjW82B-YZ6/view?usp=sharing",
   "releaseNotes": [
         "- Performance Improvemnet.",
-        "- Bug Fixing.",
+        "- Adding pooling options.",
         "- System Upgrading/maintenance."
       ]
 }
