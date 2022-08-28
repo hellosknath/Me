@@ -1,9 +1,9 @@
 {
-  "base_url": "https://apps.alchemy-bd.com/api/",
-  "l_version_code":17,
-  "user_code":"0",
-  "url": "https://drive.google.com/file/d/1zh0L7hXNXBn19lWXgwtj3HDaRPJgCvSU/view?usp=sharing",
-  "releaseNotes": [
+  "base_url" : "https://apps.alchemy-bd.com/api/",
+  "l_version_code" : 17,
+  "user_code" : "03033",
+  "url" : "https://drive.google.com/file/d/1zh0L7hXNXBn19lWXgwtj3HDaRPJgCvSU/view?usp=sharing",
+  "releaseNotes" : [
         "- Performance Improvemnet.",
         "- Adding pooling options.",
         "- System Upgrading/maintenance."
