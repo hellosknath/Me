@@ -1,6 +1,5 @@
 {
   "base_url": "https://apps.alchemy-bd.com/api/",
-  "__comments__": "info: user_code: 0 = app update all user, empid=specific user, other = no update",
   "l_version_code":17,
   "user_code":"0",
   "url": "https://drive.google.com/file/d/1zh0L7hXNXBn19lWXgwtj3HDaRPJgCvSU/view?usp=sharing",
