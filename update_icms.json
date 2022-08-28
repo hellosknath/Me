@@ -1,6 +1,6 @@
 {
   "base_url": "https://apps.alchemy-bd.com/api/",
-  "//srinath": "http://192.168.1.7:2999/api/ - - http://103.111.224.87:2999/api/ - https://apps.alchemy-bd.com/api/ - https://icmsapps.manaratint.com/api/ // info: user_code: 0 = app update all user, empid=specific user, other = no update",
+  "//comments": "info: user_code: 0 = app update all user, empid=specific user, other = no update",
   "l_version_code":17,
   "user_code":"0",
   "url": "https://drive.google.com/file/d/1zh0L7hXNXBn19lWXgwtj3HDaRPJgCvSU/view?usp=sharing",
