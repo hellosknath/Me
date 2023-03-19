@@ -1,27 +1,42 @@
-[
-    {
-        "id":0,
-        "name":"Srinath-0"
-    },
-    {
-        "id":1,
-        "name":"Srinath-1"
-    },
-    {
-        "id":2,
-        "name":"Srinath-2"
-    },
-    {
-        "id":3,
-        "name":"Srinath-3"
-    },
-    {
-        "id":4,
-        "name":"Srinath-4"
-    },
-    {
-        "id":5,
-        "name":"Srinath-5"
-    }
+{
+    "data": [
+      {
+        "id":14,
+        "abbreviation":"LAL",
+        "city":"Los Angeles",
+        "conference":"West",
+        "division":"Pacific",
+        "full_name":"Los Angeles Lakers",
+        "name":"Lakers"
+      },
+      {
+        "id":14,
+        "abbreviation":"LAL",
+        "city":"Los Angeles",
+        "conference":"West",
+        "division":"Pacific",
+        "full_name":"Los Angeles Lakers",
+        "name":"Lakers"
+      },
+      {
+        "id":14,
+        "abbreviation":"LAL",
+        "city":"Los Angeles",
+        "conference":"West",
+        "division":"Pacific",
+        "full_name":"Los Angeles Lakers",
+        "name":"Lakers"
+      },
+      {
+        "id":14,
+        "abbreviation":"LAL",
+        "city":"Los Angeles",
+        "conference":"West",
+        "division":"Pacific",
+        "full_name":"Los Angeles Lakers",
+        "name":"Lakers"
+      }
+      
+    ]
 
-]
+  }
